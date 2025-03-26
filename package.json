@@ -1,0 +1,23 @@
+{
+  "name": "clothing-ecommerce",
+  "version": "1.0.0",
+  "description": "Clothing E-commerce API Platform with Express, Node.js, and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd server && npm start",
+    "dev": "cd server && npm run dev",
+    "server": "cd server && npm run dev",
+    "install-server": "cd server && npm install",
+    "install-all": "npm install && npm run install-server"
+  },
+  "keywords": [
+    "ecommerce",
+    "clothing",
+    "express",
+    "mongodb",
+    "nodejs",
+    "api"
+  ],
+  "author": "Erfan Ahmadvand",
+  "license": "MIT"
+} 
